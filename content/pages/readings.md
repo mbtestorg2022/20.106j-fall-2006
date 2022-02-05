@@ -6,35 +6,438 @@ uid: cec563c6-079a-dc05-9704-064d6e9cc79a
 
 Many of the readings come from the course textbook, "Brock": Madigan, Michael, and John Martinko. _Brock Biology of Microorganisms_. 11th ed. Upper Saddle River, NJ: Pearson Prentice Hall, 2005. ISBN: 9780131443297.
 
-| LEC # | TOPICS | LECTURERS | READINGS |
-| --- | --- | --- | --- |
-| 1 | Early Earth/Microbial Evolution | Prof. Ed DeLong | Chapter 11 in Brock |
-| 2 | Cell Structure/Function | Prof. Ed DeLong | Chapter 4 in Brock |
-| 3 | Biological Energy Conservation | Prof. Ed DeLong | Chapters 5 and 17 in Brock |
-| 4 | Microbial Growth | Prof. David Schauer | Chapter 6 in Brock |
-| 5 | Metabolic Regulation | Prof. Ed DeLong | &nbsp; |
-| 6 | Virology | Prof. David Schauer | Chapter 9 in Brock |
-| 7 | Information Flow in Biological Systems | Prof. Ed DeLong | Chapter 10 in Brock |
-| &nbsp; | Midterm I | &nbsp; |
-| 8 | Regulation of Cell Activity | Prof. Ed DeLong | Chapter 8 in Brock |
-| 9 | Genetic Exchange in Bacteria | Prof. Ed DeLong | &nbsp; |
-| 10 | Experimental Evolution: Optimization of Metabolic Systems | Guest Lecturer, Prof. Christopher Marx from Harvard | Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ([PDF]({{< baseurl >}}/resources/marx)) |
-| 11 | Genomics I | Prof. Ed DeLong | Chapter 15 in Brock |
-| 12 | Genomics II | Prof. Ed DeLong | Chapter 15 in Brock |
-| 13 | Metabolic Diversity I | Prof. Ed DeLong | Chapter 17 in Brock |
-| 14 | Metabolic Diversity II | Prof. Ed DeLong | Chapter 17 in Brock |
-| 15 | Microbial Ecology | Prof. Ed DeLong | Chapter 19 in Brock |
-| &nbsp; | Midterm II | &nbsp; |
-| 16 | Microbial Growth Control | Prof. David Schauer | Chapter 20 in Brock |
-| 17 | Microbe-host Interactions | Prof. David Schauer |  {{< br >}}{{< br >}} Chapter 21 in Brock {{< br >}}{{< br >}} Backhed, Fredrik, et al. "Host-Bacterial Mutualism in the Human Intestine." _Science_ 307 (2005): 1915-1920. {{< br >}}{{< br >}}  |
-| 18 | Immunology I | Megan McBee | Chapters 22 and 23 in Brock |
-| 19 | Immunology II | Megan McBee | &nbsp; |
-| 20 | Diagnostic Microbiology | Prof. David Schauer | Chapters 21 and 24 in Brock |
-| 21 | Person-to-person Transmission | Prof. David Schauer | Chapter 25 in Brock |
-| 22 | Epidemiology | Megan McBee | Chapter 26 in Brock |
-| 23 | Animal- and Arthropod-transmitted Diseases | Prof. David Schauer | Chapter 27 in Brock |
-| 24 | Review | Prof. David Schauer | Chapters 28 and 29 in Brock |
-| &nbsp; | Final Exam | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Early Earth/Microbial Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Structure/Function
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Biological Energy Conservation
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 5 and 17 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microbial Growth
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Virology
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Information Flow in Biological Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of Cell Activity
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic Exchange in Bacteria
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Experimental Evolution: Optimization of Metabolic Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer, Prof. Christopher Marx from Harvard
+{{< tdclose >}}
+{{< tdopen >}}
+Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ([PDF]({{< baseurl >}}/resources/marx))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Genomics I
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Genomics II
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic Diversity I
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic Diversity II
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Microbial Ecology
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ed DeLong
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Microbial Growth Control
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 20 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Microbe-host Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 21 in Brock
+
+Backhed, Fredrik, et al. "Host-Bacterial Mutualism in the Human Intestine." _Science_ 307 (2005): 1915-1920.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology I
+{{< tdclose >}}
+{{< tdopen >}}
+Megan McBee
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 22 and 23 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology II
+{{< tdclose >}}
+{{< tdopen >}}
+Megan McBee
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Diagnostic Microbiology
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 21 and 24 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Person-to-person Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 25 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Epidemiology
+{{< tdclose >}}
+{{< tdopen >}}
+Megan McBee
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 26 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Animal- and Arthropod-transmitted Diseases
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. David Schauer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 28 and 29 in Brock
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other Readings
 --------------
