@@ -5,6 +5,7 @@ description: 'Full text of article: Wu, Dongying, et al. "Metabolic Complementar
   1079-1092.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-106j-systems-microbiology-fall-2006/e27aad85f9e24cbd8f47806d972b1c0a_wu.pdf
 file_type: application/pdf
+parent_uid: cec563c6-079a-dc05-9704-064d6e9cc79a
 resourcetype: Document
 title: wu.pdf
 uid: e27aad85-f9e2-4cbd-8f47-806d972b1c0a

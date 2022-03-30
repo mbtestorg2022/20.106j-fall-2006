@@ -5,6 +5,7 @@ description: 'Full text of an article: Marx, Christopher J., Stephen J. Van Dien
   in Formaldehyde Metabolism." PLOS Biology 3 (2005): 244-253.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-106j-systems-microbiology-fall-2006/2d04a49d45c4556a402faac9cb344dc3_marx.pdf
 file_type: application/pdf
+parent_uid: cec563c6-079a-dc05-9704-064d6e9cc79a
 resourcetype: Document
 title: marx.pdf
 uid: 2d04a49d-45c4-556a-402f-aac9cb344dc3
